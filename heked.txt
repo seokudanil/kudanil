@@ -12,7 +12,7 @@
     <meta name="author" content="Hacked By Dandier" />
     <meta name="robots" content="index, follow" />
     <link rel="icon" href="https://i.ibb.co.com/g7YBGJm/ces.jpg" type="image/x-icon"/>
-    <link rel="amphtml" href="https://{domain}/amp.php" />
+    <link rel="amphtml" href="{domain}/amp.php" />
     <meta property="og:title" content="Hacked by Dandier – Hacker Terhebat di Indonesia & di Dunia" />
     <meta property="og:description" content="Bahasan lengkap seputar siapa Hacked by Dandier, hacker terhebat di Indonesia, #cybererrorsystem, Cyber Error System, auto exploitasi, dan relevansi SEO di berbagai bidang termasuk slot online.">
     <meta property="og:image" content="https://i.imgur.com/jr4XB3z.png" />
