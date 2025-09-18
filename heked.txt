@@ -7,12 +7,12 @@
     <title>Hacked by Dandier – Hacker Terhebat di Indonesia & di Dunia - {domain}</title>
     <meta name="description" content="Bahasan lengkap seputar Hacked by Dandier, hacker terhebat di Indonesia, auto exploitasi, dan relevansi SEO di berbagai bidang termasuk slot online." />
     <meta name="robots" content="index,follow,max-snippet:-1,max-image-preview:large,max-video-preview:-1" />
-    <link rel="canonical" href="{domain}" />
+    <link rel="canonical" href="{fulldomain}" />
     <meta name="keywords" content="Hacked by dandier, deface, #cybererrorsystem, Hacker indonesia, hacker indonesia, peretas, blackhat, hacker terhebat, slot gacor, slot dana, hacker terhebat, hacker terhebat di dunia, Indonesia defacer, system pwned, hacked by, Hacked by" />
     <meta name="author" content="Hacked By Dandier" />
     <meta name="robots" content="index, follow" />
     <link rel="icon" href="https://i.ibb.co.com/g7YBGJm/ces.jpg" type="image/x-icon"/>
-    <link rel="amphtml" href="{domain}/amp.php" />
+    <link rel="amphtml" href="https://{domain}/amp.php" />
     <meta property="og:title" content="Hacked by Dandier – Hacker Terhebat di Indonesia & di Dunia" />
     <meta property="og:description" content="Bahasan lengkap seputar siapa Hacked by Dandier, hacker terhebat di Indonesia, #cybererrorsystem, Cyber Error System, auto exploitasi, dan relevansi SEO di berbagai bidang termasuk slot online.">
     <meta property="og:image" content="https://i.imgur.com/jr4XB3z.png" />
